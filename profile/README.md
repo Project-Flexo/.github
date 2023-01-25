@@ -1,4 +1,4 @@
-![Project Flexo](https://raw.githubusercontent.com/Project-Flexo/.github/main/profile/banner.png)
+![Project Flexo](https://raw.githubusercontent.com/Project-Flexo/.github/main/profile/photo_2023-01-25_23-35-26.png)
 
 Project Flexo
 =====================
