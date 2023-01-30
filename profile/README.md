@@ -5,7 +5,7 @@ Project Flexo
 Welcome to the Project Flexo!
 
 
-Project Flexo Is a Redesign Cutsom ROM Project Which Provide You Better Performance & Better Battery Life With Customizations
+Project Flexo Is a Redesign Custom ROM Project Which Provide You Better Performance & Better Battery Life With Customizations
 
 ### Links
 Feel free to click with no pressure
